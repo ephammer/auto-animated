@@ -4,18 +4,6 @@
       "path": "auto_animated"
     },
     {
-      "path": "epub_view"
-    },
-    {
-      "path": "explorer"
-    },
-    {
-      "path": "flutter_color"
-    },
-    {
-      "path": "pdfx"
-    },
-    {
       "path": ".."
     }
   ],
